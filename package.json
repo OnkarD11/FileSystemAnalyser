@@ -1,0 +1,23 @@
+{
+  "name": "FileSystemAnalyser",
+  "version": "1.0.0",
+  "description": "Functionalities:     1)make tree: This will give you tree structure of any folder.     2)make organize: This will organize a folder based on formats like audio, video, etc.     3)make help: This will list down all the commands available to use.(Helper).",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnkarD11/FileSystemAnalyser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnkarD11/FileSystemAnalyser/issues"
+  },
+  "homepage": "https://github.com/OnkarD11/FileSystemAnalyser#readme",
+  "bin": {
+    "make": "main.js"
+  }
+}
